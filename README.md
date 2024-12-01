@@ -7,12 +7,16 @@ Zasady:
 * każda osoba może być wy
 
 ## Podjęte kroki
-Prompt do GPT 4o wytyczający kryteria:
-* ma się stosować do powyższych zasad
-* ma się zalogować na podaną skrzynkę i rozesłać odpowiednie informacje na wskazane maile
+1. Napisałem prompt do GPT 4o wytyczający kryteria.
+2. Wybrałem konto gmailowe do skryptowego rozesłania wiadomości mailowych
+3. Na wybranym koncie gmail włączyłem weryfikację dwuetapową (wymagane by użyć biblioteki Python - smtplib, która wysyła maile)
+4. Wygenerowałem hasło aplikacji - 16 znakowe, które daje odpowiednie uprawnienia skryptowi (jeśli poda się je wraz z odpowiednim loginem oczywiście).
 
 ## Na co trzeba uważać:
+* użyj nieistotnej skrzynki odbiorczej do takich celów
+* nie podawaj swojego hasła! Podaj hasło aplikacji. Do tego dobra jest skrzynka gmail.
 * unikaj literówek - łatwo sie pomylić przy podawaniu aresów mail, a jak już do tego dojdzie - trzeba powtarzać losowanie.
+  
 
 ## Spostrzeżenia:
 
