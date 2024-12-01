@@ -1,3 +1,6 @@
+# SKRYPT WYGENEROWANY W GPT 4o
+
+
 import random
 import smtplib
 from email.mime.text import MIMEText
