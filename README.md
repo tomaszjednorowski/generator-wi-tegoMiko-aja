@@ -1,5 +1,6 @@
-# Generator do losowania osoby, której się kupuje prezent na Wigilię
-Projekt stworzony na potrzeby Wigilii 2024, aby zdalnie przeprowadzić losowanie wśród osób dorosłych. Kod wygenerowany przez GPT 4o
+# Generator do tajnego losowania osoby, której ktoś ma kupić prezent na Wigilię
+
+"Projekt" stworzony na potrzeby Wigilii 2024, aby zdalnie przeprowadzić losowanie wśród osób dorosłych. Kod wygenerowany przez GPT 4o
 
 Zasady:
 * nie można wylosować siebie
@@ -23,3 +24,4 @@ Zasady:
 * Pomysł został zrealizowany w 15-20 minut - stało się to dzięki GPT.
 * Poza jednym błędem ludzkim wszystko przeszło poprawnie.
 * Całość pozwala zwątpić w przyszłość zawodu programisty jaki to zawód jest w obecnym kształcie.
+
